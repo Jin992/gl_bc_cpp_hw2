@@ -18,7 +18,7 @@ int setGolf(golf &g){
 	std::string	handicap;
 	int		handicap_digit = 0;
 
-	std::cout << "Welcom to registration system." << std::endl;
+	std::cout << "Welcome to registration system." << std::endl;
 	std::cout << "Please enter your credentials:" << std::endl;
 	std::cout << "Enter name: ";
 	std::getline(std::cin, name);
